@@ -15,7 +15,7 @@ void Cohetes::setnombre(string name)
 {
 	nombre =name;
 }
-void Cohetes::setnombre(string Planeta) {
+void Cohetes::setplaneta(string Planeta) {
 	planeta = Planeta;
 }
 void Cohetes::setalad(double Alad)
